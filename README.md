@@ -8,6 +8,3 @@ This is Flock & Forts game, inspired from the Angry Birds build with Codex. Laun
 <div align="center">
   <img src="images/2.png" alt="App Screenshot" width=80% height=80%>
 </div>
-<div align="center">
-  <img src="images/3.png" alt="App Screenshot" width=80% height=80%>
-</div>
